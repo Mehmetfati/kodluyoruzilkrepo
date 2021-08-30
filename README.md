@@ -29,3 +29,7 @@ Pull requestler kabul edilir.Büyük değişikler için lütfen önce neyi deği
 
 
 [MIT](https://opensource.org/licenses/MIT)
+
+
+
+![Lorem Picsum Gorsel] (https://picsum.photos/200/300)
